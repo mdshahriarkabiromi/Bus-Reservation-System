@@ -9,7 +9,7 @@ def main():
         Please select your preferred seat type and position.
     """)
 
-    # Get all available seats
+
     seats = get_all_seats()
 
     if len(seats) == 0:
