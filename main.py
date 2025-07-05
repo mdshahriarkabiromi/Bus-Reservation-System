@@ -6,7 +6,7 @@ def main():
 
     st.write("""
         This is a bus seat reservation system that allows you to book seats in buses.
-        Please select your preferred seat type and position.
+        Please select your preferred seat(Type) and position.
     """)
 
 
